@@ -7,4 +7,5 @@ Checks for the valid input and return charges to the user as per the size and le
 Running the app:
 
 clone the repo and run the following command:
-  python manage.py runserver
+
+python manage.py runserver
